@@ -27,10 +27,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="marjan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="marjan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="marjan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="marjan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[twitter]: https://twitter.com/marjanOfficial
 [linkedin]: https://www.linkedin.com/in/marjan-tanevski/
+[twitter]: https://twitter.com/marjanOfficial
 [website]: https://marjan3.tumblr.com/
