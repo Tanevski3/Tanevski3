@@ -16,6 +16,7 @@
 
 - Software architecture
 - Managing code complexity
+- Automating tasks
 - Writting, documenting, discussing & testing code
 - Envisioning a product and making it a reality
 
